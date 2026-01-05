@@ -1,2 +1,2 @@
-# FitMatch
-An app to recommend physical exercises and nutrious diet personalize by age, gender and current physically conditions
+﻿# FitMatch
+App tÆ° váº¥n thá»ƒ cháº¥t & dinh dÆ°á»¡ng cÃ¡ nhÃ¢n hÃ³a.

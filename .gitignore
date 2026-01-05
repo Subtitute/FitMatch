@@ -1,0 +1,13 @@
+﻿# Python
+__pycache__/
+*.pyc
+.env
+venv/
+.venv/
+models/
+
+# Flutter
+/build/
+/.android/
+/.ios/
+/.pub-cache/
